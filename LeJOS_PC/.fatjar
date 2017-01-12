@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 24 16:29:31 CET 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=LegoMindstorm2_fat.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
